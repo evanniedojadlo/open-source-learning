@@ -1,0 +1,5 @@
+name: Lint markdown
+
+on: [push]
+
+jobs:
