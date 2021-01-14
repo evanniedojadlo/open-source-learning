@@ -19,8 +19,8 @@
 ## Human Centered On Call Practices | Najla Elmachtoub | CascadiaJS 2020
 [Human Centered On Call Practices | Najla Elmachtoub | CascadiaJS 2020]
 
-## Incident Management (class SRE implements DevOp)
-[Incident Management (class SRE implements DevOp)]
+## Incident Management (class SRE implements DevOps)
+[Incident Management (class SRE implements DevOps)]
 
 
 
